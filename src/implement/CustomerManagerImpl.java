@@ -1,4 +1,4 @@
-package Implement;
+package implement;
 
 import inter.CustomerManagerInterface;
 import model.Customer;
